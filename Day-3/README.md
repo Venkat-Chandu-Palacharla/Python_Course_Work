@@ -9,3 +9,5 @@ Topics covered in this folder:
 - range() and type()
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Comments, Variables and Basic Operations --> 
