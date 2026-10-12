@@ -8,3 +8,5 @@ Topics covered in this folder:
 - String slicing with start, stop and step
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Strings and Slicing --> 
