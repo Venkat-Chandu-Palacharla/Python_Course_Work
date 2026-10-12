@@ -9,3 +9,5 @@ Topics covered in this folder:
 - Dictionary methods
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Sets and Dictionaries --> 
