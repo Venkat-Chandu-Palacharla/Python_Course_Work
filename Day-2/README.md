@@ -8,3 +8,5 @@ Topics covered in this folder:
 - Literals and statements
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Python Basics, Tokens and Keywords --> 
