@@ -10,3 +10,5 @@ Topics covered in this folder:
 - Identity operators
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Python Operators --> 
