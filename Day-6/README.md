@@ -8,3 +8,5 @@ Topics covered in this folder:
 - Formatted output and f-strings
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Input and Output Formatting --> 
