@@ -9,3 +9,5 @@ Topics covered in this folder:
 - Tuple immutability and operations
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Lists and Tuples --> 
