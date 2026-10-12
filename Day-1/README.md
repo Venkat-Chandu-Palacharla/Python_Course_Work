@@ -8,3 +8,5 @@ Topics covered in this folder:
 - Your first Python program
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Introduction to Programming and Python --> 
