@@ -8,3 +8,5 @@ Topics covered in this folder:
 - Converting between numeric and string values
 
 Python practice files for this day are in the same folder.
+
+<!-- Topic: Data Types and Type Conversion --> 
